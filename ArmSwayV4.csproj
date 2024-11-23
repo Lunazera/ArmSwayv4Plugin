@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>E:\Unity\2020.3.48f1\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>E:\Unity\2020.3.48f1\Editor\Data\Resources\PackageManager\ProjectTemplates\libcache\com.unity.template.universal-10.8.0\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="VNyanInterface">
+      <HintPath>F:\VNyan Working\VNyanInterface.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
